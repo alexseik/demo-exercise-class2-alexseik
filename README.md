@@ -1,3 +1,5 @@
+Editado
+
 # Estructurar una Home page
 
 Nuestro primer ejercicio será el de estructurar una Home page acorde al diseño `home.sketch` disponible en este repositorio y a la vez en [Zeplin](https://app.zeplin.io/projects).
